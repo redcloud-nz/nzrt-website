@@ -43,13 +43,6 @@ export default function Home() {
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
           href="/subdomains"
         >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
           Subdomains
         </Link>
       </footer>
