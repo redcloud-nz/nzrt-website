@@ -12,7 +12,7 @@ export default function SubdomainsPage() {
                     
                 </p >
                 <p className="font-mono text-sm/6 text-gray-700 mb-6 text-center">
-                    Contact Alex Westphal for more information.
+                    Contact <a href="mailto:support@nzrt.org.nz" className="hover:underline hover:underline-offset-4">support@nzrt.org.nz</a> for more information.
                 </p>
             </div>
         </main>
